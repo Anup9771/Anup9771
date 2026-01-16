@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar Goswami</h1>
-<h3 align="center">B.Tech CSE(3rd) Studen</h3>
+<h3 align="center">B.Tech CSE(3rd) Student</h3>
 <h3 align="center"> Python | Data Science | AI Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- I'm a Computer Science Engineering student with hands-on experience in Python and a growing interest in Data Science. I have been actively learning and implementing data-driven solutions, exploring machine learning concepts, and enhancing my problem-solving skills. My goal is to leverage my technical knowledge and analytical mindset to contribute to innovative projects and continue growing in the field of Data Science.
+- I'm a Computer Science Engineering student with hands-on experience in Python and a growing interest in Data Science. I have been actively learning and implementing real-world project, exploring machine learning concepts, and enhancing my problem-solving skills. My goal is to leverage my technical knowledge and analytical mindset to contribute to innovative projects and continue growing in the field of Data Science.
 ---
 
 ## 🛠 Tech Stack
