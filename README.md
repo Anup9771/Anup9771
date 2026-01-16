@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar Goswami</h1>
-<h1 align="center">Hi 👋, I'm Anup Kumar Goswami</h1>
-<h3 align="centre">B.Tech CSE(3rd) Student</h3>
+<h3 align="center">B.Tech CSE(3rd) Studen</h3>
 <h3 align="center"> Python | Data Science | AI Enthusiast</h3>
 
 ---
