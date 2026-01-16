@@ -24,7 +24,7 @@
 ---
 
 ## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anup9771&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anup9771&theme=rogue)
 ---
 
 ## 🏆 GitHub Trophies
