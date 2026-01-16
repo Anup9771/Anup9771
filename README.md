@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar Goswami</h1>
-<h3 align="centre">B.Tech CSE(3rd) Student
+<h3 align="centre">B.Tech CSE(3rd) Student</h3>
 <h3 align="center"> Python | Data Science | AI Enthusiast</h3>
 
 ---
@@ -24,8 +24,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anup9771&show_icons=true&theme=dark)
-
+![Anup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anup9771&show_icons=true&theme=dark&count_private=true)
 ---
 
 ## 📈 GitHub Activity Graph
@@ -39,10 +38,14 @@
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Anuo9771&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Anup9771&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Anup9771
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-LINK)
+
+---
 
