@@ -23,16 +23,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anup9771&show_icons=true&theme=tokyonight)
-</p>
-
----
-
 ## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anup9771&theme=github-dark)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anup9771&theme=tokyo-night)
 ---
 
 ## 🏆 GitHub Trophies
