@@ -1,43 +1,45 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Anup Kumar Goswami</h1>
-<h3 align="center">Frontend Developer | Python Learner | AI Enthusiast</h3>
+<h3 align="centre">B.Tech CSE(3rd) Student
+<h3 align="center"> Python | Data Science | AI Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I am learning Web Development & Python  
-- 💡 Interested in AI, Automation & Open Source  
-- 🚀 Building small projects to improve skills  
-
+- I'm a Computer Science Engineering student with hands-on experience in Python and a growing interest in Data Science. I have been actively learning and implementing data-driven solutions, exploring machine learning concepts, and enhancing my problem-solving skills. My goal is to leverage my technical knowledge and analytical mindset to contribute to innovative projects and continue growing in the field of Data Science.
 ---
 
 ## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-green)
-![Git](https://img.shields.io/badge/Git-black)
-![GitHub](https://img.shields.io/badge/GitHub-darkblue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anup9771&show_icons=true&theme=dark)
 
 ---
 
 ## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anup9771&theme=github-dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anup9771&theme=darkhub)
 
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Anuo9771&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
